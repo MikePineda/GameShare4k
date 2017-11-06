@@ -1,0 +1,16 @@
+ .carousel-indicators li{
+    background-color: black;
+    color: black;
+
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+
